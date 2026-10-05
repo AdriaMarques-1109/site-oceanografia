@@ -1,4 +1,3 @@
-# site-oceanografia
 # Site de Oceanografia
 
 Esse projeto é uma página sobre Oceanografia, desenvolvida como parte do Trabalho Avaliativo  da disciplina de Desenvolvimento Web 
